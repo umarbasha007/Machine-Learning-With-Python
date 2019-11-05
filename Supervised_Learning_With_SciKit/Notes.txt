@@ -1,0 +1,39 @@
+What is Machine Learning?
+ - Giving computers the ability to learn to make decisions from data.
+ - without being explicitly programmed.
+
+ Ex: 
+ - Learning to predict whether an email is spam or not
+ - Clustering wikipedia entries into different categories
+
+ Types:
+
+ Supervised Learning : Uses labedled data
+ Unsupervised learning : Uses unlabled data
+
+ Reinforcement learning 
+ - Software agents interacts with an environment 
+    * Learn how to optimize their behavior
+    * Given a system of rewards and punishments
+    * Draws inspiration from behavioural psychology
+- Applications
+    * Economics
+    * Genetics
+    * Game playing
+
+
+
+Supervised learning : 
+
+  -  Image: Supervised_Learning_With_SciKit\images\Supervised Learning.PNG
+
+  Naming conventions : 
+    * Feature = predictor variables = independent variables
+    * Target variable = dependent variable = response variable
+
+Goal of Supervised learning : 
+
+- To learn from data to make predicts on new data
+  - Image : Supervised_Learning_With_SciKit\images\Goal of supervised learning.PNG
+
+
